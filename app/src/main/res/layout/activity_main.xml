@@ -17,7 +17,7 @@
             android:layout_marginTop="5dp"
             android:button="@drawable/selector_checkbox"
             android:paddingLeft="10dp"
-            android:text="全选"/>
+            android:text="全选" />
 
         <TextView
             android:id="@+id/tv_desc"
@@ -37,7 +37,8 @@
             android:paddingLeft="15dp"
             android:paddingRight="15dp"
             android:paddingTop="5dp"
-            android:text="下一步" />
+            android:text="下一步"
+            android:textColor="@android:color/white" />
 
     </RelativeLayout>
 
